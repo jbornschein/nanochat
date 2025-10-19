@@ -1,5 +1,8 @@
 # nanochat
 
+> ## 🚧 **Note: This a fork of [karpathy/nanochat](https://github.com/karpathy/nanochat) to support training on AMD Strix Halo machines**
+
+
 ![nanochat logo](dev/nanochat.png)
 
 > The best ChatGPT that $100 can buy.
